@@ -1,0 +1,1 @@
+This Python Input and Output exercise aims to help Python developers to learn and practice the Python built-in functions print() and input() to perform input and output tasks. Also, we will solve exercises to practice file handling in Python.
